@@ -7,7 +7,7 @@
 
 ```
 # Fork and Clone this repository
-git clone https://github.com/soumya2000-paul/online-compiler-web.git
+git clone https://github.com/suyashjais12/OnlineCodeEditor.git
 
 cd Online-Compiler-Web
 
